@@ -176,6 +176,8 @@ history_file="$cache_dir/ytfzf_hst"
 #the file for writing the menu option that was chosen
 current_file="$cache_dir/ytfzf_cur"
 
+playlist_dir="$HOME/.config/ytfzf/playlist"
+
 #the folder where thumbnails are cached
 thumb_dir="$cache_dir/thumb"
 
